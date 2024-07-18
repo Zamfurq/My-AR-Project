@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sceneAR.unity
+  isLoaded: 1
+  isActive: 1
